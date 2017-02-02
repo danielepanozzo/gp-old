@@ -83,17 +83,12 @@ The course schedule is tentative and *will* be adjusted along the way.
 
 * [General guidelines](https://github.com/danielepanozzo/gp/raw/master/guidelines.pdf)
 
-* A - [Hello World (optional)](https://github.com/NYUGP17/Assignment_1/raw/master/assignment1.pdf) [Code](https://github.com/NYUGP17/Assignment_1/)
+* A - [Hello World (optional)](https://github.com/NYUGP17/Assignment_1/raw/master/assignment1.pdf), [Code](https://github.com/NYUGP17/Assignment_1/).
 * B - Reconstruction
 * C - DDG (optional)
 * D - Parametrization
 * E - Mesh editing
 
-# Compilation Instructions
+# Recommendations
 
-```bash
-git clone --recursive https://github.com/danielepanozzo/gp
-TODO
-```
-
-If you are looking for an IDE, I suggest to use [CLion](https://www.jetbrains.com/clion/).
+If you are looking for an IDE, I suggest [CLion](https://www.jetbrains.com/clion/).
