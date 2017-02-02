@@ -63,7 +63,7 @@ ISBN 1568814267
 The course schedule is tentative and *will* be adjusted along the way.
 
 * January 26, 2017	[01 - Introduction](http://cs.nyu.edu/~panozzo/gp/01%20-%20Introduction.pdf)
-* February 2, 2017	Acquision
+* February 2, 2017	[02 - Acquision](http://cs.nyu.edu/~panozzo/gp/02%20-%20Acquisition.pdf)
 * February 9, 2017	Reconstruction
 * February 16, 2017	DDG Curves
 * February 23, 2017	DDG Surfaces
