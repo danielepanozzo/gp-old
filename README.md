@@ -81,9 +81,9 @@ The course schedule is tentative and *will* be adjusted along the way.
 
 ## Assignments
 
-* General guidelines
+* [General guidelines](https://github.com/danielepanozzo/gp/raw/master/guidelines.pdf)
 
-* A - Hello World (optional)
+* A - [Hello World (optional)](https://github.com/NYUGP17/Assignment_1/raw/master/assignment1.pdf)
 * B - Reconstruction
 * C - DDG (optional)
 * D - Parametrization
