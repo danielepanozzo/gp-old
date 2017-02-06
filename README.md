@@ -20,14 +20,17 @@ Office Hours: Thursdays, 3pm-4pm and by appointment, 60 Fifth Ave, 5th floor
 
 [http://julianpanetta.com](http://julianpanetta.com)
 
-Office Hours: TBD
+Office Hours: Thursdays, 4pm-5pm and by appointment, 60 Fifth Ave, Room 522
+No scheduled office hours 2/9/17, 2/16/17; email for appointment.
 
 ### Lectures:
 Thursdays at 5:10pm - 7pm
 60 Fifth Ave, C10
 
 ### Recitation:
-TBD
+Wednesdays at 2pm - 3pm
+60 Fifth Ave, 446
+(No Recitation on 2/15/17)
 
 ## Course Description
 
@@ -63,7 +66,7 @@ ISBN 1568814267
 The course schedule is tentative and *will* be adjusted along the way.
 
 * January 26, 2017	[01 - Introduction](http://cs.nyu.edu/~panozzo/gp/01%20-%20Introduction.pdf)
-* February 2, 2017	[02 - Acquision](http://cs.nyu.edu/~panozzo/gp/02%20-%20Acquisition.pdf)
+* February 2, 2017	[02 - Acquisition](http://cs.nyu.edu/~panozzo/gp/02%20-%20Acquisition.pdf)
 * February 9, 2017	Reconstruction
 * February 16, 2017	DDG Curves
 * February 23, 2017	DDG Surfaces
