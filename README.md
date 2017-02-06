@@ -20,7 +20,7 @@ Office Hours: Thursdays, 3pm-4pm and by appointment, 60 Fifth Ave, 5th floor
 
 [http://julianpanetta.com](http://julianpanetta.com)
 
-Office Hours: Thursdays, 4pm-5pm and by appointment, 60 Fifth Ave, Room 522
+Office Hours: Thursdays, 4pm-5pm and by appointment, 60 Fifth Ave, Room 522  
 No scheduled office hours 2/9/17, 2/16/17; email for appointment.
 
 ### Lectures:
@@ -29,7 +29,7 @@ Thursdays at 5:10pm - 7pm
 
 ### Recitation:
 Wednesdays at 2pm - 3pm
-60 Fifth Ave, 446
+60 Fifth Ave, 446  
 (No Recitation on 2/15/17)
 
 ## Course Description
