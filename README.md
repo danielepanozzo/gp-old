@@ -67,7 +67,7 @@ The course schedule is tentative and *will* be adjusted along the way.
 
 * January 26, 2017	[01 - Introduction](http://cs.nyu.edu/~panozzo/gp/01%20-%20Introduction.pdf)
 * February 2, 2017	[02 - Acquisition](http://cs.nyu.edu/~panozzo/gp/02%20-%20Acquisition.pdf)
-* February 9, 2017	Reconstruction
+* February 9, 2017	[03 - Reconstruction](http://cs.nyu.edu/~panozzo/gp/03%20-%20Reconstruction.pdf)
 * February 16, 2017	DDG Curves
 * February 23, 2017	DDG Surfaces
 * March 2, 2017	Smoothing
