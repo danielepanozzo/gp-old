@@ -69,7 +69,7 @@ The course schedule is tentative and *will* be adjusted along the way.
 * February 2, 2017	[02 - Acquisition](http://cs.nyu.edu/~panozzo/gp/02%20-%20Acquisition.pdf)
 * February 9, 2017	[03 - Reconstruction](http://cs.nyu.edu/~panozzo/gp/03%20-%20Reconstruction.pdf)
 * February 23, 2017	[04 - Normals and Curves](http://cs.nyu.edu/~panozzo/gp/04%20-%20Normal%20Estimation,%20Curves.pdf)
-* February 23, 2017	DDG Surfaces
+* March 2, 2017	[05 - Surfaces](http://cs.nyu.edu/~panozzo/gp/05%20-%20Surfaces.pdf)
 * March 2, 2017	Smoothing
 * March 9, 2017	Directional Fields
 * March 16, 2017	No class scheduled
