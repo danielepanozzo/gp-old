@@ -71,7 +71,7 @@ The course schedule is tentative and *will* be adjusted along the way.
 * February 23, 2017	[04 - Normals and Curves](http://cs.nyu.edu/~panozzo/gp/04%20-%20Normal%20Estimation,%20Curves.pdf)
 * March 2, 2017	[05 - Surfaces](http://cs.nyu.edu/~panozzo/gp/05%20-%20Surfaces.pdf)
 * March 9, 2017	[06 - Smoothing](http://cs.nyu.edu/~panozzo/gp/06%20-%20Smoothing.pdf)
-* March 16, 2017	[07 - Directional Fields](http://cs.nyu.edu/~panozzo/gp/07%20-%20Directional%20Fields.pdf)
+* March 23, 2017	[07 - Directional Fields](http://cs.nyu.edu/~panozzo/gp/07%20-%20Directional%20Fields.pdf)
 * March 23, 2017	Single Patch Param
 * March 30, 2017	Global Param
 * April 6, 2017	Mesh Editing I
