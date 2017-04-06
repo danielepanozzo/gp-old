@@ -88,7 +88,7 @@ The course schedule is tentative and *will* be adjusted along the way.
 * A - [Hello World (optional)](https://github.com/NYUGP17/Assignment_1/raw/master/assignment1.pdf), [Code](https://github.com/NYUGP17/Assignment_1/), [Slides](https://github.com/danielepanozzo/gp/raw/master/recitation_slides/section_1.pdf).
 * B - [Implicit Surface Reconstruction](https://github.com/NYUGP17/Assignment_2/raw/master/assignment2.pdf), [Code](https://github.com/NYUGP17/Assignment_2/), [Slides](https://github.com/danielepanozzo/gp/raw/master/recitation_slides/section_2.pdf).
 * C - [DDG (optional)](https://github.com/NYUGP17/Assignment_3/raw/master/assignment3.pdf), [Slides](https://github.com/danielepanozzo/gp/raw/master/recitation_slides/section_3.pdf).
-* D - [Mesh Parameterization](https://github.com/NYUGP17/Assignment_4/raw/master/assignment4.pdf), [Code](https://github.com/NYUGP17/Assignment_4/), [Cotan Laplacian Slides](https://github.com/danielepanozzo/gp/raw/master/recitation_slides/CotanLaplacian.pdf)
+* D - [Mesh Parameterization](https://github.com/NYUGP17/Assignment_4/raw/master/assignment4.pdf), [Code](https://github.com/NYUGP17/Assignment_4/), [Cotan Laplacian Slides](https://github.com/danielepanozzo/gp/raw/master/recitation_slides/CotanLaplacian.pdf), [HW4 Recitation Slides](https://github.com/danielepanozzo/gp/raw/master/recitation_slides/section_4.pdf).
 * E - Mesh editing
 
 # Recommendations
