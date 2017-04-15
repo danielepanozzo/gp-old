@@ -74,7 +74,7 @@ The course schedule is tentative and *will* be adjusted along the way.
 * March 23, 2017	[07 - Directional Fields](http://cs.nyu.edu/~panozzo/gp/07%20-%20Directional%20Fields.pdf)
 * March 30, 2017	[08 - Single Patch Parametrization](http://cs.nyu.edu/~panozzo/gp/08%20-%20Single%20Patch%20Parametrization.pdf)
 * April 13, 2017	[09 - Boundary-Free Parametrization and Laplacian Mesh Deformation](http://cs.nyu.edu/~panozzo/gp/09%20-%20Boundary-Free%20Parametrization%20and%20Laplacian%20Mesh%20Deformation.pdf)
-* April 20, 2017	Space Deformation and Skinning
+* April 20, 2017	[10 - ARAP and Linear Blend Skinning](http://cs.nyu.edu/~panozzo/gp/10%20-%20ARAP%20and%20Linear%20Blend%20Skinning.pdf) [(Video)](http://cs.nyu.edu/~panozzo/gp/10%20-%20ARAP%20and%20Linear%20Blend%20Skinning.m4v)
 * April 27, 2017	Microstructure Design
 * May 4, 2017	Research Overview
 * May 11, 2017	Finals
