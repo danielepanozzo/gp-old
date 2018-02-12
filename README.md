@@ -82,9 +82,9 @@ The course schedule is tentative and *will* be adjusted along the way.
 
 * [General guidelines](https://cs.nyu.edu/~panozzo/gp18/guidelines.pdf) [(latex)](https://cs.nyu.edu/~panozzo/gp18/guidelines.zip)
 
-* 1 - [Hello World (optional)](https://cs.nyu.edu/~panozzo/gp18/Handout1.pdf) [(latex)](https://cs.nyu.edu/~panozzo/gp18/Handout1.zip), [Code](https://github.com/NYUGeometricModeling/GM_Assignment_1), [Slides](https://cs.nyu.edu/~panozzo/gp18/Assignment1.pdf) [(keynote)](https://cs.nyu.edu/~panozzo/gp18/Assignment1.key.zip).
-<!-- * Feb 1
-* 2 - [Implicit Surface Reconstruction](https://github.com/NYUGeometricModeling/GM_Assignment_2/raw/master/assignment2.pdf), [Code](https://github.com/NYUGeometricModeling/GM_Assignment_2/), [Slides](https://github.com/danielepanozzo/gp/raw/master/recitation_slides/section_2.pdf).
+* 1 - [Hello World](https://cs.nyu.edu/~panozzo/gp18/Handout1.pdf) [(latex)](https://cs.nyu.edu/~panozzo/gp18/Handout1.zip), [Code](https://github.com/NYUGeometricModeling/GM_Assignment_1), [Slides](https://cs.nyu.edu/~panozzo/gp18/Assignment1.pdf) [(keynote)](https://cs.nyu.edu/~panozzo/gp18/Assignment1.key.zip). Optional
+* 2 - [Implicit Surface Reconstruction](https://cs.nyu.edu/~panozzo/gp18/Handout2.pdf) [(latex)](https://cs.nyu.edu/~panozzo/gp18/Handout2.zip), [Code](https://github.com/NYUGeometricModeling/GM_Assignment_2), [Slides](https://cs.nyu.edu/~panozzo/gp18/Assignment2.pdf) [(keynote)](https://cs.nyu.edu/~panozzo/gp18/Assignment2.key.zip). **Due on Mar 8, 2018 at 23:59EST.**
+<!--
 * Feb 8 - Mar 8
 * 3 - [DDG (optional)](https://github.com/NYUGeometricModeling/GM_Assignment_3/raw/master/assignment3.pdf), [Slides](https://github.com/danielepanozzo/gp/raw/master/recitation_slides/section_3.pdf).
 * Feb 22
