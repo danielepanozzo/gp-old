@@ -20,7 +20,11 @@ Office Hours: Thursdays, 3pm-4pm and by appointment, 60 Fifth Ave, 5th floor
 
 [https://cs.nyu.edu/~zhongshi/](https://cs.nyu.edu/~zhongshi/)
 
-Office Hours: TBD.
+Office Hours: Tuesday 4pm - 5pm.
+
+Recitation: Thursday 3pm - 4pm.
+
+Location TBD
 
 ### Lectures:
 Thursdays at 5:10pm - 7pm

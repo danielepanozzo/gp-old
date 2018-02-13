@@ -1,3 +1,6 @@
 [submodule "GM_Assignment_1"]
 	path = Assignment_1
 	url = https://github.com/NYUGeometricModeling/GM_Assignment_1
+[submodule "Assignment_2"]
+	path = Assignment_2
+	url = https://github.com/NYUGeometricModeling/GM_Assignment_2.git
