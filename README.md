@@ -88,11 +88,10 @@ The course schedule is tentative and *will* be adjusted along the way.
 
 * 1 - [Hello World](https://cs.nyu.edu/~panozzo/gp18/Handout1.pdf) [(latex)](https://cs.nyu.edu/~panozzo/gp18/Handout1.zip), [Code](https://github.com/NYUGeometricModeling/GM_Assignment_1), [Slides](https://cs.nyu.edu/~panozzo/gp18/Assignment1.pdf) [(keynote)](https://cs.nyu.edu/~panozzo/gp18/Assignment1.key.zip). Optional
 * 2 - [Implicit Surface Reconstruction](https://cs.nyu.edu/~panozzo/gp18/Handout2.pdf) [(latex)](https://cs.nyu.edu/~panozzo/gp18/Handout2.zip), [Code](https://github.com/NYUGeometricModeling/GM_Assignment_2), [Slides](https://cs.nyu.edu/~panozzo/gp18/Assignment2.pdf) [(keynote)](https://cs.nyu.edu/~panozzo/gp18/Assignment2.key.zip). **Due on Mar 8, 2018 at 23:59EST.**
+* 3 - [DDG (optional)](https://cs.nyu.edu/~panozzo/gp18/Handout3.pdf) [(latex)](https://cs.nyu.edu/~panozzo/gp18/Handout3.zip), [Code](https://github.com/NYUGeometricModeling/GM_Assignment_3), [Slides](https://cs.nyu.edu/~panozzo/gp18/Assignment3.pdf) [(keynote)](https://cs.nyu.edu/~panozzo/gp18/Assignment3.key.zip), [Cotan Laplacian Slides](https://cs.nyu.edu/~panozzo/gp18/CotanLaplacian.pdf) [(keynote)](https://cs.nyu.edu/~panozzo/gp18/CotanLaplacian.key.zip)
 <!--
-* Feb 8 - Mar 8
-* 3 - [DDG (optional)](https://github.com/NYUGeometricModeling/GM_Assignment_3/raw/master/assignment3.pdf), [Slides](https://github.com/danielepanozzo/gp/raw/master/recitation_slides/section_3.pdf).
 * Feb 22
-* 4 - [Mesh Parameterization](https://github.com/NYUGeometricModeling/GM_Assignment_4/raw/master/assignment4.pdf), [Code](https://github.com/NYUGeometricModeling/GM_Assignment_4/), [Cotan Laplacian Slides](https://github.com/danielepanozzo/gp/raw/master/recitation_slides/CotanLaplacian.pdf), [HW4 Recitation Slides]
+* 4 - [Mesh Parameterization](https://github.com/NYUGeometricModeling/GM_Assignment_4/raw/master/assignment4.pdf), [Code](https://github.com/NYUGeometricModeling/GM_Assignment_4/), , [HW4 Recitation Slides]
 * Mar 8-29
 * (https://github.com/danielepanozzo/gp/raw/master/recitation_slides/section_4.pdf).
 * 5 - [Shape Deformation](https://github.com/NYUGeometricModeling/GM_Assignment_5/raw/master/assignment5.pdf), [Code](https://github.com/NYUGeometricModeling/GM_Assignment_5/), [HW5 Recitation Slides](https://github.com/danielepanozzo/gp/raw/master/recitation_slides/section_5.pdf).
