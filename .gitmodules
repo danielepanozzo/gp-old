@@ -1,4 +1,4 @@
-[submodule "GM_Assignment_1"]
+[submodule "Assignment_1"]
 	path = Assignment_1
 	url = https://github.com/NYUGeometricModeling/GM_Assignment_1
     branch = master
@@ -14,3 +14,10 @@
 	path = Assignment_4
 	url = https://github.com/NYUGeometricModeling/GM_Assignment_4
 	branch = master
+#[submodule "Assignment_5"]
+#	path = Assignment_5
+#	url = https://github.com/NYUGeometricModeling/GM_Assignment_5
+#    branch = master
+[submodule "Assignment_5"]
+	path = Assignment_5
+	url = https://github.com/NYUGeometricModeling/GM_Assignment_5
