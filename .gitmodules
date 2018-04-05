@@ -17,3 +17,4 @@
 [submodule "Assignment_5"]
 	path = Assignment_5
 	url = https://github.com/NYUGeometricModeling/GM_Assignment_5
+    branch = master
