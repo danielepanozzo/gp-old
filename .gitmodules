@@ -14,10 +14,6 @@
 	path = Assignment_4
 	url = https://github.com/NYUGeometricModeling/GM_Assignment_4
 	branch = master
-#[submodule "Assignment_5"]
-#	path = Assignment_5
-#	url = https://github.com/NYUGeometricModeling/GM_Assignment_5
-#    branch = master
 [submodule "Assignment_5"]
 	path = Assignment_5
 	url = https://github.com/NYUGeometricModeling/GM_Assignment_5
