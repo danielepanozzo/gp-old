@@ -89,6 +89,11 @@ The course schedule is tentative and *will* be adjusted along the way.
 
 * 4 - [Mesh Parameterization](https://cs.nyu.edu/~panozzo/gp18/Handout4.pdf) [(latex)](https://cs.nyu.edu/~panozzo/gp18/Handout4.zip), [Code](https://github.com/NYUGeometricModeling/GM_Assignment_4), [Slides](https://cs.nyu.edu/~panozzo/gp18/Assignment4.pdf) [(keynote)](https://cs.nyu.edu/~panozzo/gp18/Assignment4.key.zip). **Due on Apr 11, 2018 at 23:59EST.**
 
+* 5 - [Shape Deformation (optional, 12.5 extra points)](https://cs.nyu.edu/~panozzo/gp18/Handout5.pdf) [(latex)](https://cs.nyu.edu/~panozzo/gp18/Handout5.zip), [Code](https://github.com/NYUGeometricModeling/GM_Assignment_5), [Slides](https://cs.nyu.edu/~panozzo/gp18/Assignment5.pdf) [(keynote)](https://cs.nyu.edu/~panozzo/gp18/Assignment5.key.zip)
+
+* 6 - [Final Project](https://cs.nyu.edu/~panozzo/gp18/ProjectIdeas.pdf) [(keynote)](https://cs.nyu.edu/~panozzo/gp18/ProjectIdeas.key.zip). **Due on May 9, 2018 at 23:59EST.**
+
+
 <!--
 * Mar 8-29
 * (https://github.com/danielepanozzo/gp/raw/master/recitation_slides/section_4.pdf).
