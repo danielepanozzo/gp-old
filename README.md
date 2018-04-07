@@ -91,7 +91,7 @@ The course schedule is tentative and *will* be adjusted along the way.
 
 * 5 - [Shape Deformation (optional, 12.5 extra points)](https://cs.nyu.edu/~panozzo/gp18/Handout5.pdf) [(latex)](https://cs.nyu.edu/~panozzo/gp18/Handout5.zip), [Code](https://github.com/NYUGeometricModeling/GM_Assignment_5), [Slides](https://cs.nyu.edu/~panozzo/gp18/Assignment5.pdf) [(keynote)](https://cs.nyu.edu/~panozzo/gp18/Assignment5.key.zip). **Due on May 9, 2018 at 23:59EST.**
 
-* 6 - [Final Project](https://cs.nyu.edu/~panozzo/gp18/ProjectIdeas.pdf) [(keynote)](https://cs.nyu.edu/~panozzo/gp18/ProjectIdeas.key.zip). **Due on May 9, 2018 at 23:59EST.**
+* 6 - [Final Project](https://cs.nyu.edu/~panozzo/gp18/ProjectIdeas.pdf), [Code](https://github.com/NYUGeometricModeling/GM_Final_Project), [(keynote)](https://cs.nyu.edu/~panozzo/gp18/ProjectIdeas.key.zip). **Due on May 9, 2018 at 23:59EST.**
 
 
 <!--
