@@ -1,0 +1,97 @@
+\documentclass[11pt]{amsart}
+\usepackage{geometry}                % See geometry.pdf to learn the layout options. There are lots.
+\geometry{letterpaper}                   % ... or a4paper or a5paper or ... 
+%\geometry{landscape}                % Activate for for rotated page geometry
+%\usepackage[parfill]{parskip}    % Activate to begin paragraphs with an empty line rather than an indent
+\usepackage{graphicx}
+\usepackage{amssymb}
+\usepackage{epstopdf}
+\usepackage[usenames,dvipsnames]{color}
+\usepackage{hyperref}
+\hypersetup{colorlinks=true}
+\DeclareGraphicsRule{.tif}{png}{.png}{`convert #1 `dirname #1`/`basename #1 .tif`.png}
+\renewcommand\familydefault{\sfdefault}
+\newcommand{\todo}[1]{{\bf\textcolor{red}{TODO: #1}}}
+\setlength{\topmargin}{0cm}
+\setlength{\headheight}{0cm}
+\setlength{\headsep}{1cm}
+\setlength{\textheight}{7.7in}
+\setlength{\textwidth}{6.5in}
+\setlength{\oddsidemargin}{0cm}
+\setlength{\evensidemargin}{0cm}
+\setlength{\parindent}{0.25cm}
+\setlength{\parskip}{0.1cm}
+
+\usepackage{fancyhdr,graphicx,lastpage}% http://ctan.org/pkg/{fancyhdr,graphicx,lastpage}
+\fancypagestyle{plain}{
+  \fancyhf{}% Clear header/footer
+  \fancyhead[L]{CSCI-GA.3033-018 - Geometric Modeling}% Right header
+  \fancyhead[R]{\includegraphics[height=20pt]{nyu.pdf}}% Right header
+  \fancyfoot[L]{\vspace{2pt} Daniele Panozzo\textbf{}}% Left footer
+  \fancyfoot[R]{\vspace{2pt} \thepage}% Right footer
+}
+
+\pagestyle{plain}% Set page style to plain.
+\begin{document}
+
+\hspace{50pt}
+
+\begin{center}
+
+{\Huge \textbf{General Rules and Instructions}}\\
+\end{center}
+
+\section*{Plagiarism Note and Late Policy}
+Copying code (either from other students or from external sources) is strictly
+prohibited! We will be using automatic anti-plagiarism tools, and any violation
+of this rule will lead to expulsion from the class. Late submissions will
+generally not be accepted. In case of serious illness or emergency, please notify
+Daniele and provide a relevant medical certificate.
+
+\section*{Provided Libraries}
+For each assignment, you will use the geometry processing library
+\href{https://github.com/libigl/libigl/}{\texttt{libigl}}, which
+includes implementations of many of the algorithms presented in class.
+The \texttt{libigl} library
+includes a set of tutorials, an introduction to which can be found in
+\texttt{tutorial/tutorial.html}. You are advised to look over the relevant
+tutorials before starting the implementation for the
+assignments; you are also encouraged to examine the source code of all
+the library functions that you use in your code to see how they were
+implemented.
+
+To simplify compilation, we will use \texttt{libigl} as a header-only library
+(note that, if you prefer, you can compile it into a set of static libraries for
+faster builds at your own risk---this can be brittle on some platforms). This
+way, all you need to do to install \texttt{libigl} is to clone it somewhere and
+point your \texttt{\$LIBIGL\_ROOT} there. If you don't want to deal with
+environment variables, \texttt{libigl} can also be found if you clone it into
+your assignment directory's parent directory. All dependencies of
+\texttt{libigl} are included as
+\href{https://git-scm.com/book/en/v2/Git-Tools-Submodules}{git submodules}, so
+please follow the installation instructions below carefully (note the
+`--recursive' clone).
+
+No libraries apart from \texttt{libigl} are permitted unless permission is
+granted in advance.
+
+\section*{Installing CMake and \texttt{LIBIGL}}
+Before we can begin, you must install \href{https://cmake.org/}{CMake}, the
+system \texttt{libigl} uses for cross-platform builds. If you are using Linux or
+macOS, I recommend installing it with a package manager instead of the
+\href{https://cmake.org/download/}{CMake download page}.
+E.g. on Debian/Ubuntu: \texttt{sudo apt-get install cmake} or with
+\href{http://macports.org}{MacPorts} on macOS: \texttt{sudo port install cmake}.
+
+Next, choose an installation location for \texttt{libigl}. As mentioned above,
+if you clone it into the parent directory of your assignment repositories, each
+assignment's CMake scripts will find it automatically. If you place it
+elsewhere, you will need to set the \texttt{\$LIBIGL\_ROOT} environment variable
+to point to the cloned \texttt{libigl} directory.
+
+Finally, clone \texttt{libigl} and all of its dependencies:\\
+\texttt{git clone --recursive https://github.com/libigl/libigl.git}.
+The \texttt{--recursive} is needed to bring in the dependencies, which are git
+submodules.
+
+\end{document}  
