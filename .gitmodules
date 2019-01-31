@@ -1,7 +1,3 @@
-[submodule "Assignment_5"]
-	path = Assignment_5
-	url = https://github.com/NYUGeometricModeling/GM_Assignment_5
-    branch = master
 [submodule "Final_Project"]
 	path = Final_Project
 	url = https://github.com/NYUGeometricModeling/GM_Final_Project.git
