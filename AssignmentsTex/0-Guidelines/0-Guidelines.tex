@@ -69,10 +69,10 @@ system \texttt{libigl} uses for cross-platform builds. If you are using Linux or
 macOS, I recommend installing it with a package manager instead of the
 \href{https://cmake.org/download/}{CMake download page}.
 E.g. on Debian/Ubuntu: \texttt{sudo apt-get install cmake} or with
-\href{http://macports.org}{MacPorts} on macOS: \texttt{sudo port install cmake}.
+\href{https://brew.sh}{Brew} on macOS: \texttt{brew install cmake}.
 
-Next, the download of \texttt{libigl} is taken care with cmake system.
-In the assignment directory, create and enter a build directory with `mkdir build && cd build`.
+The download of \texttt{libigl} is directly taken care of by the cmake system.
+In the assignment directory, create and enter a build directory with `mkdir build \&\& cd build`.
 Then invoking `cmake ../` will download \texttt{libigl} to `external/` and take care of the configuration.
 Most of the problems, if any, will be solved by removing `../external/` and redo `cmake ../` 
 
