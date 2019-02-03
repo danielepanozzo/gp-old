@@ -60,18 +60,6 @@ assignments; you are also encouraged to examine the source code of all
 the library functions that you use in your code to see how they were
 implemented.
 
-To simplify compilation, we will use \texttt{libigl} as a header-only library
-(note that, if you prefer, you can compile it into a set of static libraries for
-faster builds at your own risk---this can be brittle on some platforms). This
-way, all you need to do to install \texttt{libigl} is to clone it somewhere and
-point your \texttt{\$LIBIGL\_ROOT} there. If you don't want to deal with
-environment variables, \texttt{libigl} can also be found if you clone it into
-your assignment directory's parent directory. All dependencies of
-\texttt{libigl} are included as
-\href{https://git-scm.com/book/en/v2/Git-Tools-Submodules}{git submodules}, so
-please follow the installation instructions below carefully (note the
-`--recursive' clone).
-
 No libraries apart from \texttt{libigl} are permitted unless permission is
 granted in advance.
 
@@ -83,15 +71,9 @@ macOS, I recommend installing it with a package manager instead of the
 E.g. on Debian/Ubuntu: \texttt{sudo apt-get install cmake} or with
 \href{http://macports.org}{MacPorts} on macOS: \texttt{sudo port install cmake}.
 
-Next, choose an installation location for \texttt{libigl}. As mentioned above,
-if you clone it into the parent directory of your assignment repositories, each
-assignment's CMake scripts will find it automatically. If you place it
-elsewhere, you will need to set the \texttt{\$LIBIGL\_ROOT} environment variable
-to point to the cloned \texttt{libigl} directory.
-
-Finally, clone \texttt{libigl} and all of its dependencies:\\
-\texttt{git clone --recursive https://github.com/libigl/libigl.git}.
-The \texttt{--recursive} is needed to bring in the dependencies, which are git
-submodules.
+Next, the download of \texttt{libigl} is taken care with cmake system.
+In the assignment directory, create and enter a build directory with `mkdir build && cd build`.
+Then invoking `cmake ../` will download \texttt{libigl} to `external/` and take care of the configuration.
+Most of the problems, if any, will be solved by removing `../external/` and redo `cmake ../` 
 
 \end{document}  
