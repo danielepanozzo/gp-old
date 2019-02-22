@@ -28,7 +28,14 @@ Thursdays at 5:10pm - 7pm
 60 Fifth Ave, C12
 
 ### Recitation:
-Recitation: TBD
+Recitations will be informal additional lectures
+going through the assignment requirements. 
+Recitation will be taking place instead of the office hours on certain dates, in another room in the 60 5th Ave building.
+
+| Date    	| Time        	| Location 	| Content      	|
+|---------	|-------------	|----------	|--------------	|
+| Feb. 26 	| 3 pm - 4 pm 	| C15      	| Assignment 2 	|
+
 
 ## Course Description
 
