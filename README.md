@@ -74,9 +74,9 @@ The course schedule is tentative and *will* be adjusted along the way.
 * [02 - Acquisition](http://cs.nyu.edu/~panozzo/gp/02%20-%20Acquisition.pdf) [(keynote)](https://cs.nyu.edu/~panozzo/gp/02%20-%20Acquisition.key.zip)
 * [03 - Reconstruction](http://cs.nyu.edu/~panozzo/gp/03%20-%20Reconstruction.pdf) [(keynote)](https://cs.nyu.edu/~panozzo/gp/03%20-%20Reconstruction.key.zip)
 * [04 - Normals and Curves](http://cs.nyu.edu/~panozzo/gp/04%20-%20Normal%20Estimation,%20Curves.pdf) [(keynote)](https://cs.nyu.edu/~panozzo/gp/04%20-%20Normal%20Estimation,%20Curves.key.zip)
-<!--
 * [05 - Surfaces](http://cs.nyu.edu/~panozzo/gp/05%20-%20Surfaces.pdf) [(keynote)](https://cs.nyu.edu/~panozzo/gp/05%20-%20Surfaces.key.zip)
 * [06 - Smoothing](http://cs.nyu.edu/~panozzo/gp/06%20-%20Smoothing.pdf) [(keynote)](https://cs.nyu.edu/~panozzo/gp/06%20-%20Smoothing.key.zip)
+<!--
 * [07 - Directional Fields](http://cs.nyu.edu/~panozzo/gp/07%20-%20Directional%20Fields.pdf) [(keynote)](https://cs.nyu.edu/~panozzo/gp/07%20-%20Directional%20Fields.key.zip)
 * [08 - Single Patch Parametrization](http://cs.nyu.edu/~panozzo/gp/08%20-%20Single%20Patch%20Parametrization.pdf) [(keynote)](https://cs.nyu.edu/~panozzo/gp/08%20-%20Single%20Patch%20Parametrization.key.zip)
 * [09 - Boundary-Free Parametrization and Laplacian Mesh Deformation](http://cs.nyu.edu/~panozzo/gp/09%20-%20Boundary-Free%20Parametrization%20and%20Laplacian%20Mesh%20Deformation.pdf) [(keynote)](http://cs.nyu.edu/~panozzo/gp/09%20-%20Boundary-Free%20Parametrization%20and%20Laplacian%20Mesh%20Deformation.key.zip)
