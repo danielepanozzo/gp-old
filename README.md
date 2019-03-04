@@ -35,6 +35,7 @@ Recitation will be taking place instead of the office hours on certain dates, in
 | Date    	| Time        	| Location 	| Content      	|
 |---------	|-------------	|----------	|--------------	|
 | Feb. 26 	| 3 pm - 4 pm 	| C15      	| Assignment 2 	|
+| Mar. 13 	| 3 pm - 4 pm 	| C15      	| Assignment 3 	|
 
 
 ## Course Description
