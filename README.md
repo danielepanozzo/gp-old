@@ -77,9 +77,9 @@ The course schedule is tentative and *will* be adjusted along the way.
 * [04 - Normals and Curves](http://cs.nyu.edu/~panozzo/gp/04%20-%20Normal%20Estimation,%20Curves.pdf) [(keynote)](https://cs.nyu.edu/~panozzo/gp/04%20-%20Normal%20Estimation,%20Curves.key.zip)
 * [05 - Surfaces](http://cs.nyu.edu/~panozzo/gp/05%20-%20Surfaces.pdf) [(keynote)](https://cs.nyu.edu/~panozzo/gp/05%20-%20Surfaces.key.zip)
 * [06 - Smoothing](http://cs.nyu.edu/~panozzo/gp/06%20-%20Smoothing.pdf) [(keynote)](https://cs.nyu.edu/~panozzo/gp/06%20-%20Smoothing.key.zip)
-<!--
 * [07 - Directional Fields](http://cs.nyu.edu/~panozzo/gp/07%20-%20Directional%20Fields.pdf) [(keynote)](https://cs.nyu.edu/~panozzo/gp/07%20-%20Directional%20Fields.key.zip)
 * [08 - Single Patch Parametrization](http://cs.nyu.edu/~panozzo/gp/08%20-%20Single%20Patch%20Parametrization.pdf) [(keynote)](https://cs.nyu.edu/~panozzo/gp/08%20-%20Single%20Patch%20Parametrization.key.zip)
+<!--
 * [09 - Boundary-Free Parametrization and Laplacian Mesh Deformation](http://cs.nyu.edu/~panozzo/gp/09%20-%20Boundary-Free%20Parametrization%20and%20Laplacian%20Mesh%20Deformation.pdf) [(keynote)](http://cs.nyu.edu/~panozzo/gp/09%20-%20Boundary-Free%20Parametrization%20and%20Laplacian%20Mesh%20Deformation.key.zip)
 * [10 - ARAP and Linear Blend Skinning](http://cs.nyu.edu/~panozzo/gp/10%20-%20ARAP%20and%20Linear%20Blend%20Skinning.pdf) [(keynote)](http://cs.nyu.edu/~panozzo/gp/10%20-%20ARAP%20and%20Linear%20Blend%20Skinning.key.zip) -->
 
@@ -90,7 +90,8 @@ The course schedule is tentative and *will* be adjusted along the way.
 * 1 - [Hello World](AssignmentsTex/1-HelloWorld/1-HelloWorld.pdf) [(latex)](AssignmentsTex/1-HelloWorld/), [Code](https://github.com/NYUGeometricModeling/GM_Assignment_1), [Slides](https://cs.nyu.edu/~panozzo/gp/Assignment1.pdf) [(keynote)](https://cs.nyu.edu/~panozzo/gp/Assignment1.key.zip). Optional
 * 2 - [Implicit Surface Reconstruction](https://cs.nyu.edu/~panozzo/gp/Handout2.pdf) [(latex)](https://cs.nyu.edu/~panozzo/gp/Handout2.zip), [Code](https://github.com/NYUGeometricModeling/GM_Assignment_2), [Slides](https://cs.nyu.edu/~panozzo/gp/Assignment2.pdf) [(keynote)](https://cs.nyu.edu/~panozzo/gp/Assignment2.key.zip). **Due on Mar 6, 2019 at 23:59EST.**
  * 3 - [DDG (optional)](https://cs.nyu.edu/~panozzo/gp/Handout3.pdf) [(latex)](https://cs.nyu.edu/~panozzo/gp/Handout3.zip), [Code](https://github.com/NYUGeometricModeling/GM_Assignment_3), [Slides](https://cs.nyu.edu/~panozzo/gp/Assignment3.pdf) [(keynote)](https://cs.nyu.edu/~panozzo/gp/Assignment3.key.zip), [Cotan Laplacian Slides](https://cs.nyu.edu/~panozzo/gp/CotanLaplacian.pdf) [(keynote)](https://cs.nyu.edu/~panozzo/gp/CotanLaplacian.key.zip)
-<!--* 4 - [Mesh Parameterization](https://cs.nyu.edu/~panozzo/gp/Handout4.pdf) [(latex)](https://cs.nyu.edu/~panozzo/gp/Handout4.zip), [Code](https://github.com/NYUGeometricModeling/GM_Assignment_4), [Slides](https://cs.nyu.edu/~panozzo/gp/Assignment4.pdf) [(keynote)](https://cs.nyu.edu/~panozzo/gp/Assignment4.key.zip). **Due on Apr 11, 2018 at 23:59EST.**
+* 4 - [Mesh Parameterization](https://cs.nyu.edu/~panozzo/gp/Handout4.pdf) [(latex)](https://cs.nyu.edu/~panozzo/gp/Handout4.zip), [Code](https://github.com/NYUGeometricModeling/GM_Assignment_4), [Slides](https://cs.nyu.edu/~panozzo/gp/Assignment4.pdf) [(keynote)](https://cs.nyu.edu/~panozzo/gp/Assignment4.key.zip). **Due on Apr 3, 2019 at 23:59EST.**
+<!--
 * 5 - [Shape Deformation (optional, 12.5 extra points)](https://cs.nyu.edu/~panozzo/gp/Handout5.pdf) [(latex)](https://cs.nyu.edu/~panozzo/gp/Handout5.zip), [Code](https://github.com/NYUGeometricModeling/GM_Assignment_5), [Slides](https://cs.nyu.edu/~panozzo/gp/Assignment5.pdf) [(keynote)](https://cs.nyu.edu/~panozzo/gp/Assignment5.key.zip). **Optional Credit** *Due on May 9, 2018 at 23:59EST.*
 * 6 - [Final Project](https://cs.nyu.edu/~panozzo/gp/ProjectIdeas.pdf), [Code](https://github.com/NYUGeometricModeling/GM_Final_Project), [(keynote)](https://cs.nyu.edu/~panozzo/gp/ProjectIdeas.key.zip). **Due on May 9, 2018 at 23:59EST.** -->
 
